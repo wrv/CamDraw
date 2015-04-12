@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CamDraw</string>
+
+    <string name="hello_world">Welcome to CamDraw! Take a picture and draw on it!</string>
+    <string name="action_settings">Change Color</string>
+    <string name="pick_color">Pick a color</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Black</item>
+        <item>White</item>
+    </string-array>
+</resources>
